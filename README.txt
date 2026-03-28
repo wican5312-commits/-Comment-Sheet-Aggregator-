@@ -47,7 +47,26 @@
 
 
 --------------------------------------------------------------------------------
-■ 3. 大学のシステムが変わったときの対応方法
+■ 3. アカウント情報（GitHub / Streamlit）
+--------------------------------------------------------------------------------
+
+  GitHub および Streamlit のアカウントは、いずれも
+  WiCAN の Google アカウントで開設されています。
+
+  ログイン方法：
+    各サービスのログイン画面で「Googleでログイン（Sign in with Google）」
+    を選択し、WiCAN の Google アカウントでログインしてください。
+
+  Streamlit 管理画面（デプロイ・再起動・設定変更など）へのアクセス：
+    方法 1: Google で「streamlit community cloud」と検索する
+    方法 2: ブラウザに以下の URL を入力する
+            https://share.streamlit.io/
+
+    ※ Streamlit 管理画面ではアプリの再起動・設定変更・ログ確認ができます。
+
+
+--------------------------------------------------------------------------------
+■ 4. 大学のシステムが変わったときの対応方法
 --------------------------------------------------------------------------------
 
 Excel の列構成が変わった場合は、設定ファイルを書き換えます。
@@ -205,7 +224,26 @@ When an attendance sheet (.xls / .xlsx) is also provided:
 
 
 --------------------------------------------------------------------------------
-■ 3. Updating Settings When the University's Excel Format Changes
+■ 3. Account Information (GitHub / Streamlit)
+--------------------------------------------------------------------------------
+
+  Both the GitHub and Streamlit accounts were created using the
+  WiCAN Google account.
+
+  How to log in:
+    On the login page of each service, select "Sign in with Google"
+    and use the WiCAN Google account.
+
+  Accessing the Streamlit dashboard (deploy, restart, settings, logs):
+    Option 1: Search "streamlit community cloud" on Google
+    Option 2: Enter the following URL in your browser
+              https://share.streamlit.io/
+
+    * The dashboard lets you restart the app, change settings, and view logs.
+
+
+--------------------------------------------------------------------------------
+■ 4. Updating Settings When the University's Excel Format Changes
 --------------------------------------------------------------------------------
 
 If the column positions in the Excel files change, you need to update the
