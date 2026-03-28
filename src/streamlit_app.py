@@ -36,7 +36,7 @@ T = {
 
         "s2_title":        "出席簿",
         "s2_optional":     "任意",
-        "s2_hint":         "出席簿を追加すると学籍番号順に整列し、書式も引き継ぎます",
+        "s2_hint":         "出席簿（KogibetuSeiseki_から始まるファイル）を追加すると学籍番号順に整列し、書式も引き継ぎます",
         "s2_types":        ".xlsx / .xls",
         "s2_selected":     "選択中:",
 
@@ -78,7 +78,7 @@ T = {
 
         "s2_title":        "Attendance Sheet",
         "s2_optional":     "Optional",
-        "s2_hint":         "Sorts results by student ID and preserves original formatting",
+        "s2_hint":         "Sorts results by student ID and preserves original formatting (Look for file starts with KogibetuSeiseki_)",
         "s2_types":        ".xlsx / .xls",
         "s2_selected":     "Selected:",
 
