@@ -82,7 +82,7 @@ T = {
         "s2_types":        ".xlsx / .xls",
         "s2_selected":     "Selected:",
 
-        "s3_title":        "Year Setting",
+        "s3_title":        "Target Year",
         "year_label":      "Please insert the target year",
         "year_ph":         "e.g. 2025  (blank = all data)",
 
