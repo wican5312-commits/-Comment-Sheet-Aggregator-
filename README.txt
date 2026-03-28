@@ -23,7 +23,7 @@
 
   ┌─────────────────────────────────────────────────────────┐
   │  【A. Web 版】ブラウザで使う（推奨）                        │
-  │  URL: https://ksgadget-csa.streamlit.app/               │
+  │  URL: https://shukei.streamlit.app/               │
   │  インストール不要。スマホ・Mac でも使えます。                │
   └─────────────────────────────────────────────────────────┘
 
@@ -184,7 +184,7 @@ When an attendance sheet (.xls / .xlsx) is also provided:
 --------------------------------------------------------------------------------
 
   [A. Web Version — Recommended]
-  URL: https://ksgadget-csa.streamlit.app/
+  URL: https://shukei.streamlit.app/
   No installation needed. Works on mobile and Mac.
 
     Steps:
