@@ -40,8 +40,8 @@ T = {
         "s2_types":        ".xlsx / .xls",
         "s2_selected":     "選択中:",
 
-        "s3_title":        "設定",
-        "year_label":      "対象年度",
+        "s3_title":        "年度設定",
+        "year_label":      "対象年度を入力してください",
         "year_ph":         "例: 2025　（空白 = 全データ）",
 
         "year_warn_title": "対象年度が空欄です",
@@ -82,8 +82,8 @@ T = {
         "s2_types":        ".xlsx / .xls",
         "s2_selected":     "Selected:",
 
-        "s3_title":        "Settings",
-        "year_label":      "Target Year",
+        "s3_title":        "Year Setting",
+        "year_label":      "Please insert the target year",
         "year_ph":         "e.g. 2025  (blank = all data)",
 
         "year_warn_title": "Target year is empty",
